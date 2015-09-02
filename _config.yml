@@ -1,6 +1,7 @@
 name: Dans site
 favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.25449
 cta:
   domain: null
   bucket: null
